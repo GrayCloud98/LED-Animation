@@ -1,0 +1,5 @@
+
+public enum AnimationStage {
+	
+	GUTESWETTER, MENSCH, DUNKLEWOLKEN, VORREGEN, REGEN, BLITZ, ENDE
+}
