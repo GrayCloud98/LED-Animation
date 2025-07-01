@@ -1,3 +1,5 @@
-A short Animation sketch made with Java.
-Output:
-       https://user-images.githubusercontent.com/132372607/235971497-e5fdcba2-dd6a-4815-9da0-1704def4a07c.mp4
+## 🎥 Demo
+
+A short animation sketch made with Java. Watch the demo below:
+
+<video src="https://raw.githubusercontent.com/GrayCloud98/LED-Animation/main/media/led-animation-demo.mp4" controls width="500"></video>
