@@ -1,5 +1,5 @@
 ## 🎥 Demo
 
-A short animation sketch made with Java. Watch the demo below:
+A short animation sketch made with Java. Click the image below to watch the demo:
 
-<video src="https://raw.githubusercontent.com/GrayCloud98/LED-Animation/main/media/led-animation-demo.mp4" controls width="500"></video>
+[![Watch the demo](media/thumbnail.png)](https://raw.githubusercontent.com/GrayCloud98/LED-Animation/main/media/led-animation-demo.mp4)
